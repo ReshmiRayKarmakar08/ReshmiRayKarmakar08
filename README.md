@@ -114,48 +114,33 @@
 ## 🧊 3D Contribution Graph
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/main/profile-3d-contrib/profile-night-green.svg"
-    alt="3D GitHub Contribution Graph"
-    width="800"
-  />
+  <img src="https://github.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/blob/output/profile-3d-contrib/profile-night-green.svg" width="90%" />
 </p>
 
 ---
 
-## 🏆 Achievements & Community
+## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-bg=true&margin-w=10&row=1" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ReshmiRayKarmakar08?style=for-the-badge&label=Followers&color=7E3ACE" />
-  <img src="https://img.shields.io/github/stars/ReshmiRayKarmakar08?style=for-the-badge&label=Total+Stars&color=yellow" />
+  <img src="https://img.shields.io/github/followers/ReshmiRayKarmakar08?style=for-the-badge&label=Followers&color=ff69b4" />
+  <img src="https://img.shields.io/github/stars/ReshmiRayKarmakar08?style=for-the-badge&label=Stars&color=ff69b4" />
 </p>
 
 ---
-
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/ReshmiRayKarmakar08">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://linkedin.com/in/raykarmakar08" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
 </p>
 
 ---
-
 ## 🐍 Snake Contribution Game
 
 <p align="center">
