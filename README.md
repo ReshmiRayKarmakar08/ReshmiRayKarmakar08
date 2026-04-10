@@ -114,7 +114,7 @@
 ## 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/blob/output/profile-3d-contrib/profile-night-green.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/output/profile-3d-contrib/profile-night-green.svg" width="90%" />
 </p>
 
 ---
@@ -122,12 +122,12 @@
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ReshmiRayKarmakar08?style=for-the-badge&label=Followers&color=ff69b4" />
-  <img src="https://img.shields.io/github/stars/ReshmiRayKarmakar08?style=for-the-badge&label=Stars&color=ff69b4" />
+  <img src="https://img.shields.io/github/followers/ReshmiRayKarmakar08?style=for-the-badge&color=ff69b4"/>
+  <img src="https://img.shields.io/github/stars/ReshmiRayKarmakar08?style=for-the-badge&color=ff69b4"/>
 </p>
 
 ---
@@ -136,7 +136,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/raykarmakar08" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50"/>
   </a>
 </p>
 
