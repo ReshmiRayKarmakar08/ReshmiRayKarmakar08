@@ -122,7 +122,9 @@
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-frame=false&margin-w=4&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&margin-w=15" alt="ReshmiRayKarmakar08's Trophies" />
+  </a>
 </p>
 
 <p align="center">
