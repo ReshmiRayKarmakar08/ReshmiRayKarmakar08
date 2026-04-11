@@ -114,7 +114,7 @@
 ## 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/output/profile-night-green.svg" width="90%" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/main/profile-3d-contrib/profile-night-green.svg" width="90%" alt="3D Contribution Graph" />
 </p>
 
 ---
@@ -122,7 +122,7 @@
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-frame=true&margin-w=10&row=2&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 <p align="center">
@@ -135,19 +135,9 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/raykarmakar08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:raykarmakar08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ReshmiRayKarmakar08" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/raykarmakar08" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
 ---
 ### 🐍 My Contributions Snake
