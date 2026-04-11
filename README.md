@@ -28,7 +28,7 @@
 - 🛠️ **Expertise**: MERN Stack, **Java Development**, and building cool stuff.
 - 🎨 **Visuals**: Passionate about **UI/UX Design** and creating pixel-perfect, intuitive frontends.
 - 🤝 **Community**: Active **Open Source** contributor and tech enthusiast.
-- 📫 **Reach out**: [raykarmakar08@gmail.com](mailto:raykarmakar08@gmail.com)
+- 📫 **Reach out**: [raykarmakar08@gmail.com](mailto:raykarmakar8@gmail.com)
 
 ---
 
