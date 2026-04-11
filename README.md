@@ -141,16 +141,6 @@
 </p>
 
 ---
-## 🐍 Snake Contribution Game
+### 🐍 My Contributions Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/output/snake.svg" alt="snake gif"/>
-</p>
-
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-</p>
-
-<p align="center">
-  ⭐ Built with ❤️ by <a href="https://github.com/ReshmiRayKarmakar08">Reshmi Ray Karmakar</a> ⭐
-</p>
+![GitHub Snake Dark](https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/output/snake-dark.svg)
