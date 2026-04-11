@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/ReshmiRayKarmakar08" target="_blank">
+  <a href="https://in.linkedin.com/in/reshmi-ray-karmakar-a9427a284" target="_blank">
     <img src="https://img.shields.io/twitter/follow/ReshmiRayKarmakar08?logo=twitter&style=for-the-badge&color=7E3ACE&labelColor=1a1a1a" alt="Follow Reshmi" />
   </a>
 </p>
@@ -124,9 +124,7 @@
 <p align="center">
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90"/>
 
 </p>
 
