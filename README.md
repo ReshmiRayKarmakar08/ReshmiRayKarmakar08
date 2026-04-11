@@ -119,16 +119,21 @@
 
 ---
 
-<div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-frame=false" alt="Trophies" />
-  </a>
-</div>
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ReshmiRayKarmakar08?style=for-the-badge&color=ff69b4&label=Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/ReshmiRayKarmakar08?style=for-the-badge&color=ff69b4&label=Stars"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90"/>
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ReshmiRayKarmakar08?style=for-the-badge&label=Followers&color=0e75b6"/>
+  <img src="https://img.shields.io/github/stars/ReshmiRayKarmakar08?style=for-the-badge&label=Stars&color=yellow"/>
+  <img src="https://img.shields.io/github/commit-activity/y/ReshmiRayKarmakar08?style=for-the-badge&label=Commits&color=green"/>
 </p>
 
 ---
