@@ -119,9 +119,11 @@
 
 ---
 
-## 🏆 Achievements & Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-frame=false" alt="Trophies" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ReshmiRayKarmakar08?style=for-the-badge&color=ff69b4&label=Followers"/>
@@ -133,9 +135,11 @@
 
 ## 🌐 Connect with Me
 
-<a href="https://in.linkedin.com/in/reshmi-ray-karmakar-a9427a284" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+<div align="left">
+  <a href="https://in.linkedin.com/in/reshmi-ray-karmakar-a9427a284" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</div>
 
 ---
 ### 🐍 My Contributions Snake
