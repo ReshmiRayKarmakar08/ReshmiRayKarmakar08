@@ -114,7 +114,7 @@
 ## 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/main/profile-3d-contrib/profile-night-green.svg" width="90%" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/output/profile-night-green.svg" width="90%" alt="3D Contribution Graph" />
 </p>
 
 ---
@@ -122,7 +122,7 @@
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-frame=false&margin-w=4&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" alt="Trophies" />
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@
 
 ## 🌐 Connect with Me
 
-<a href="https://linkedin.com/in/raykarmakar08" target="_blank">
+<a href="https://in.linkedin.com/in/reshmi-ray-karmakar-a9427a284" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
