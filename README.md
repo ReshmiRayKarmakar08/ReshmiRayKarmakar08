@@ -114,7 +114,7 @@
 ## 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/output/profile-3d-contrib/profile-night-green.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/output/profile-night-green.svg" width="90%" alt="3D Contribution Graph" />
 </p>
 
 ---
@@ -122,12 +122,13 @@
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ReshmiRayKarmakar08&theme=radical&no-frame=true&margin-w=10&row=2&column=4" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ReshmiRayKarmakar08?style=for-the-badge&color=ff69b4"/>
-  <img src="https://img.shields.io/github/stars/ReshmiRayKarmakar08?style=for-the-badge&color=ff69b4"/>
+  <img src="https://img.shields.io/github/followers/ReshmiRayKarmakar08?style=for-the-badge&color=ff69b4&label=Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ReshmiRayKarmakar08?style=for-the-badge&color=ff69b4&label=Stars"/>
 </p>
 
 ---
@@ -136,11 +137,25 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/raykarmakar08" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:raykarmakar08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ReshmiRayKarmakar08" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 ### 🐍 My Contributions Snake
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/output/snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/output/snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ReshmiRayKarmakar08/ReshmiRayKarmakar08/output/snake-dark.svg" />
+  </picture>
+</p>
