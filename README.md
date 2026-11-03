@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=7E3ACE&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Reshmi+Ray+Karmakar+✨;Fullstack+Web+Developer+🚀;Agentic+AI+%26+GenAI+Specialist;Open+Source+%26+Java+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=7E3ACE&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Reshmi+Ray+Karmakar;Fullstack+Web+Developer;GenAI+Specialist;Open+Source+%26+Java" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ## ⚡ About Me
 
 - 👩‍💻 **Full Name**: Reshmi Ray Karmakar
-- 💻 **Current Role**: Versatile **Full Stack Web Developer** specializing in **GenAI & Agentic AI**
+- 💻 **Current Role**: Versatile **Full Stack Web Developer** specializing in **GenAI **
 - 🚀 **Focus**: Engineering **Scalable Web Applications** with a bridge between AI and high-performance architecture.
 - 🛠️ **Expertise**: MERN Stack, **Java Development**, and building cool stuff.
 - 🎨 **Visuals**: Passionate about **UI/UX Design** and creating pixel-perfect, intuitive frontends.
